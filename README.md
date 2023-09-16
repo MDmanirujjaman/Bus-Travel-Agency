@@ -1,1 +1,2 @@
 # Bus-Travel-Agency
+I created a user-friendly bus travel agency website to simplify the booking process. Customers can effortlessly choose their routes, buses, and seats, all while making secure online payments. As a bonus, they receive their bus tickets in PDF format for easy access. I built this website using PHP, HTML, CSS, Bootstrap, and SQL, ensuring a seamless and secure booking experience for travelers.
